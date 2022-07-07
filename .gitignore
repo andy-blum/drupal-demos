@@ -3,5 +3,5 @@
 /web/*/contrib
 /web/sites/*/files
 /web/sites/*/private
-/web/sites/*/settings*.php
+/web/sites/*/settings.*.php
 /web/sites/*/services*.yml
