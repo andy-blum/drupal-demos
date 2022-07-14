@@ -1,0 +1,15 @@
+# Main theme library.
+global:
+  js:
+    js/webco.js: {}
+
+component.hello_world:
+  header: true
+  js:
+    build/hello-world.js: {attributes: {type: 'module'}}
+
+component.accordion:
+  header: true
+  js:
+    build/accordion.js: {attributes: {type: 'module'}}
+    build/accordion-item.js: {attributes: {type: 'module'}}

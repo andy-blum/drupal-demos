@@ -1,0 +1,23 @@
+name: Web Component Demo
+type: theme
+base theme: olivero
+description: Demo theme for web component usage
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
+# libraries:
+#   - webco/global
+regions:
+  header: Header
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  hero: 'Hero (full width)'
+  highlighted: Highlighted
+  breadcrumb: Breadcrumb
+  social: Social Bar
+  content_above: Content Above
+  content: Content
+  sidebar: 'Sidebar'
+  content_below: 'Content Below'
+  footer_top: 'Footer Top'
+  footer_bottom: 'Footer Bottom'

@@ -1,5 +1,5 @@
-name: wc-demo
-type: drupal9
+name: drupal-demos
+type: drupal10
 docroot: web
 php_version: "8.1"
 webserver_type: nginx-fpm

@@ -5,3 +5,4 @@
 /web/sites/*/private
 /web/sites/*/settings.*.php
 /web/sites/*/services*.yml
+.DS_Store
